@@ -1,10 +1,8 @@
 # PollTogether
 Together or together? For THAT is the question
-### https://poll-together.herokuapp.com/
 
-## Made by the Polars
 
-## How PollTogether Came to Be
+## How PollTogether Came to Be our inspiration
 
 ```md
 OUR INSPIRATION was simple - To CREATE an easy, fun, and graphical way to get your "Fist-of-Five"!
@@ -147,3 +145,10 @@ Your database should contain the following four models, including the requiremen
 * `Poll` belongs to `User`, and `User` has many `Poll` models.
 
 * `Answer` belongs to `Poll` model, and `Poll` has many `Answer` models.
+
+### Deployment done on Heroku
+
+[Github](https://github.com/bl-engineer/PollTogether)
+
+[Deployed_URL] (https://poll-together.herokuapp.com/)
+
